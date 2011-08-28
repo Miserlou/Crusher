@@ -1,4 +1,5 @@
-' :::::::::::::::::::::::::::::::::::---::::-::-'-::'''':-'-'''-''''''''''''''''
+<pre>
+:::::::::::::::::::::::::::::::::::---::::-::-'-::'''':-'-'''-''''''''''''''''
 :::::::::::::::::::::::::::::::''-''''''''--:-:::'''-':--'----'--'-'''''''''''
 ::::::::::::::::::::::::;::--'-''''''''''''''''''--:::::::''-'-''-''''--''''''
 :::::::::::::::::::::;:::::----'--''''''''''''''''''--::::::'-:-''--'''-''''''
@@ -37,9 +38,13 @@ $$$$$$SOOOSSOOOOE$:+++::-;OOOOOOOOOOOOOSCSSSSIII!I+---:''''''i!:I!+ii++++++i++
 SSCOOCCOOOSCOOOOCOO!;:::::;COOOOOOOOOOS$SSCSS$$I$$;-----'-';IS$+CSSS$II!!IIi++
 OOCOOCOCOCSCOOOOOOOOOOCI::;:iOOOOOOOOOOOOOOOS$$$+::;IS$!+++S$SI;ICCS$S$$II!IIi
 CCOOCOOOOCC$OOOOOOOOOOOOOOOSIi;OOOOOOOOOOOOOS+-;IC$ISSSSSSI$S$S:SCSSS$$SSS$$II
-OOOOOOOOOOCIOOOCOOOCOOCOCSSSOOOOOCSSCOOOOOSICO$I$I$CS$SSS$IS$IS++CSSSS$$SS$SSS'
+OOOOOOOOOOCIOOOCOOOCOOCOCSSSOOOOOCSSCOOOOOSICO$I$I$CS$SSS$IS$IS++CSSSS$$SS$SSS
+</pre>
 
-crusher.sh
-rich@gun.io
+=crusher.sh=
+
+==rich@gun.io==
+
 Crush your pngs inline!
+
 Put it in a directory, ./crusher.sh, bam.
