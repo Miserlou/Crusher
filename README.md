@@ -47,4 +47,6 @@ OOOOOOOOOOCIOOOCOOOCOOCOCSSSOOOOOCSSCOOOOOSICO$I$I$CS$SSS$IS$IS++CSSSS$$SS$SSS
 
 Crush your pngs inline!
 
+sudo apt-get install pngcrush
+
 Put it in a directory, ./crusher.sh, bam.
